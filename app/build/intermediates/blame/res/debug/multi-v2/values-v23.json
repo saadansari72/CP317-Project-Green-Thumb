@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Minec\\Desktop\\CP317-Project-Green-Thumb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\saada\\Documents\\GitHub\\CP317-Project-Green-Thumb-mine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Minec\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\0f6c4f672b0fb8f599aa2592f0c00e50\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\saada\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\315b1cf81c28c02a627a3650567a1809\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Minec\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c3c7213399608fb0a1676b279bbc7f5e\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\saada\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0ec1ae67052c3ac3935ddf3342f2d329\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
